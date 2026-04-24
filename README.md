@@ -14,7 +14,9 @@ Julia Santos ✨
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ---
 
@@ -26,8 +28,3 @@ Julia Santos ✨
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/juliasarod/juliasarod/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/juliasarod/juliasarod/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://github.com/juliasarod/juliasarod/blob/output/github-contribution-grid-snake.svg" />
-</picture>
